@@ -26,5 +26,5 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal hal berikut:
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/FahmiHeykal/uji-coba-api.git
 cd your-repository
