@@ -1,6 +1,6 @@
 # Golang API dengan Registrasi Pengguna, Verifikasi Email, dan Reset Kata Sandi
 
-Ini adalah API Go (Golang) sederhana yang menunjukkan fungsionalitas autentikasi pengguna dasar, termasuk :
+API Go (Golang) sederhana yang menunjukkan fungsionalitas autentikasi pengguna dasar, termasuk :
 - Registrasi pengguna dengan OTP untuk verifikasi email
 - Verifikasi email dengan OTP
 - Fungsionalitas lupa kata sandi dengan OTP untuk reset kata sandi
