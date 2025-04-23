@@ -21,10 +21,3 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal hal berikut:
 - [PostgreSQL](https://www.postgresql.org/download/) untuk basis data
 - [Postman](https://www.postman.com/downloads/) untuk menguji API
 
-## Setup
-
-### 1. Clone Repositori
-
-```bash
-git clone https://github.com/FahmiHeykal/uji_coba_api.git
-cd your-repository
